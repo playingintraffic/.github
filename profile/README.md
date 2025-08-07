@@ -33,7 +33,7 @@ More may be added, but the focus is on **quality over quantity** going forward.
 - **Discord** → [discord.gg/MUckUyS5Kq](https://discord.gg/MUckUyS5Kq)  
   For updates, support, chaos, and yelling at bugs.
 
-- **Docs** → [docs.playingintraffic.dev](https://playingintraffic.site/docs)  
+- **Docs** → [playingintraffic.site/docs](https://playingintraffic.site/docs)  
   If something needs explaining, it'll be here.
 
 # ❓ About the Rebrand
