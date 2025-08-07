@@ -19,8 +19,9 @@ A dumping ground for anything worth sharing:
 
 | Name | Description |
 |------|-------------|
-| [`pit_fsdk`](https://github.com/PlayingInTraffic/pit_fsdk) | FiveM Script Dev Kit – bridges, utils, server-side systems and much more |
-| [`pit_fui`](https://github.com/PlayingInTraffic/pit_fui) | FiveM UI Kit - dui, premade setups, progressbars, notifications and more |
+| [`GRAFT`](https://github.com/playingintraffic/graft) | FiveM Script Dev Kit – bridges, utils, server-side systems and much more |
+| [`PLUCK`](https://github.com/playingintraffic/pluck) | FiveM UI Kit - dui, premade setups, progressbars, notifications and more |
+| [`ZEN`](https://github.com/playingintraffic/zen) | A modern, modular server core designed to be extended |
 
 More may be added, but the focus is on **quality over quantity** going forward.
 
@@ -32,7 +33,7 @@ More may be added, but the focus is on **quality over quantity** going forward.
 - **Discord** → [discord.gg/MUckUyS5Kq](https://discord.gg/MUckUyS5Kq)  
   For updates, support, chaos, and yelling at bugs.
 
-- **Docs** → [docs.playingintraffic.dev](https://docs.playingintraffic.dev)  
+- **Docs** → [docs.playingintraffic.dev](https://playingintraffic.site/docs)  
   If something needs explaining, it'll be here.
 
 # ❓ About the Rebrand
